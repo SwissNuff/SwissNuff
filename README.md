@@ -11,7 +11,7 @@ Now I’m mashing all my skills together to find my ikigai, help the community, 
 - 😎 Software Engineer and Data Quality Analyst (2024-Present) @[Haast](https://haast.io/)
 - 💅 _Magna Cum Laude_ B.S. Computer Science (2025) @[University of the Philippines Diliman](https://upd.edu.ph/)
 - 🦉 Director for Membership and Internals (2023-2024) @[UP Center for Student Innovations](https://up-csi.org/)
-- 🦉 Intern (2023) @[Samsung](https://research.samsung.com/srph)
+- 📱 Intern (2023) @[Samsung](https://research.samsung.com/srph)
 
 ## Side Quests
 - 🤝 Building and marketing software locally @ Western Visayas <sub>(Please connect with me if you are interested in Laundromats/Industrial Laundry)</sub>
