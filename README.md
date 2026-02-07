@@ -1,5 +1,5 @@
 # Welcome to my page, I'm SwissNuff (Arian) 👋
-I started young selling to classmates, hustling on the side, and doing random side quests for adults. I sold junkyard scraps, bought a photocopy machine, and called it passive income.
+I started young selling to classmates, hustling on the side, and doing random side quests for adults. I sold junkyard scraps, bought a photocopy machine, lent it and called it "passive income".
 
 In high school, I learned design and UI/UX for quick cash. I chased being a jack of all trades and took up computer science @[UP Diliman](https://upd.edu.ph/) because software paid well and was _“hard to automate.”_ <sub>(Yikes.. did not age well)</sub>
 
