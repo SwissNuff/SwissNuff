@@ -14,6 +14,7 @@ Now I’m mashing all my skills together to find my ikigai, help the community, 
 - 📱 Intern (2023) @[Samsung](https://research.samsung.com/srph)
 
 ## Side Quests
+- 🖌️ Developer of @[wabidaily.art](https://wabidaily.art/)
 - 🤝 Building and marketing software locally in Western Visayas <sub>(Please connect with me if you are interested in Laundromats/Industrial Laundry)</sub>
 - 👕 Laundry Shop expansion (2025-Present) @ [SpeedwashPH](https://www.facebook.com/SpeedwashLaundryPH/) & SurewashPH
 - 🐶 Intern (Dec 2025-Jan 2026) @ Webpuppies
